@@ -1,0 +1,5 @@
+yt-dlp
+Pillow
+mutagen
+requests
+PyQt6

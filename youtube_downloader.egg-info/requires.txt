@@ -1,0 +1,8 @@
+PyQt6
+yt-dlp
+Pillow
+mutagen
+requests
+
+[dev]
+pyinstaller
